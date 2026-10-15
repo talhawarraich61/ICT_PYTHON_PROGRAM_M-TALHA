@@ -44,6 +44,4 @@ The computer picks a random number between 1 and 100. You keep guessing until yo
 
 ## Author
 
-Talha  
-Department of Information Security, Military College of Signals (MCS), NUST  
-Applications of ICT-Assignment 1
+Muhammed Talha- Github acc; talhawarraich61
